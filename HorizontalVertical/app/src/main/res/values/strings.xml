@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Horizontal&amp;Vertical</string>
+    <string name="textview">
+        A conversion factor is used to change the units of a measured quantity without changing its value. The unity bracket method of unit conversion consists of a fraction in which the denominator is equal to the numerator, but they are in different units. Because of the identity property of multiplication, the value of a quantity will not change as long as it is multiplied by one. Also, if the numerator and denominator of a fraction are equal to each other, then the fraction is equal to one. So as long as the numerator and denominator of the fraction are equivalent, they will not affect the value of the measured quantity.
+
+The following example demonstrates how the unity bracket method is used to convert the rate 5 kilometers per second to meters per second. The symbols km, m, and s represent kilometer, meter, and second, respectively.
+
+
+    </string>
+</resources>

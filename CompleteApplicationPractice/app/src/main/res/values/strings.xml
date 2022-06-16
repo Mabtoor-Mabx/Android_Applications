@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CompleteApplicationPractice</string>
+    <string name="web_developement_concept">Web Developement Concept</string>
+    <string name="textview">
+        What is Web Developement"\n""\n"
+
+Web development refers in general to the tasks associated with developing websites for hosting via intranet or internet. The web development process includes web design, web content development, client-side/server-side scripting and network security configuration, among other tasks.
+"\n""\n""
+In a broader sense, web development encompasses all the actions, updates, and operations required to build, maintain and manage a website to ensure its performance, user experience, and speed are optimal.
+"\n""\n"
+It might also, but not necessarily, include all those strategic actions needed to ensure its proper ranking on search engine results. Usually, those tasks pertain to a different specialization, namely search engine optimization (SEO)
+"\n""\n"
+Web development is also known as website development, while the professionals that maintain a website are called web developers or (more commonly) web devs.
+
+
+    </string>
+    <string name="textview2">
+
+        Techopedia Explains Web Development
+        "\n""\n"
+Web development is the coding or programming that enables website functionality, per the owner\'s requirements. It mainly deals with the non-design aspect of building websites, which includes coding and writing markup.
+
+Web development ranges from creating plain text pages to complex web-based applications, social network applications and electronic business applications.
+"\n""\n"
+The web development hierarchy is as follows:
+
+        <b> Client-side coding. </b>
+        <b> Server-side coding.</b>
+        <b> Database technology. </b>
+
+Most web devs use Hypertext Markup Language (HTML), Cascading Style Sheets (CSS), and JavaScript to develop websites.
+        "\n""\n"
+    </string>
+</resources>

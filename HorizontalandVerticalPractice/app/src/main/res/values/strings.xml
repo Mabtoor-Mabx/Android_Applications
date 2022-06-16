@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Horizontal and Vertical Practice</string>
+    <string name="android_developemet_concept">Android Developemet Concept</string>
+    <string name="todo">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="textview2">
+
+        What is Android Development?
+Any application developed to be supported by the Android Operating system using the android software development kit (sdk) on android studio is the process of android development. The open-source operating system designed by Google especially for mobiles is Android. Android OS has been developed using Linux Kernel. Because of the ability of easily modifiable (as its open source), most of the android developers have used different GUIs even when all of them use the same basic operating system. The open source code used for the development of android applications is Android Open Source Project (AOSP),
+
+
+        Any application for android system can be easily created by installing the freely available SDK. These applications support any device which is built in android OS and written In Java. These run on Java Virtual Machines (JVM).
+
+With over 2 million monthly active users, Android has been the most best-selling OS since 2011. Android comes with different versions of it and each comes with new features; distinct from all the old ones. The latest Android which hit the market is Android 11.
+
+Android is an open source operating system with the highest community and developers reach which is the highest reason for it having the increased marketing and inter-app integrations. Android developers move towards this specific field because of the reduced cost and resources and highest success ratios built on the richest development environments. And features such as beautiful user interface, highest connectivity rates, storage, media support and messaging is the reason why android serves as the biggest market in today’s technology world. It also has other features such as web browsing, multi-touch, multi-tasking, resizable widgets, android beam, Google cloud messaging (GCM) and multi-language.
+
+
+
+    </string>
+</resources>

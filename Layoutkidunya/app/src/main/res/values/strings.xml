@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Layoutkidunya</string>
+    <string name="web_developement_concepts">Web Developement Concepts</string>
+    <string name="textview">
+
+        General web concepts \n\n
+Summary
+Our general web concepts are concept and tutorial articles covering general subjects related to the web and web design and development, such as how the web works, information architecture, typography and web design. These do not directly tie in with specific technologies and techniques covered in the other major site topics, but they will inevitably reference such technologies, for example responsive web design involves HTML, CSS, JavaScript, etc.
+        \n
+
+If you are completely new to web development, you may want to review the Beginners section should cover the basics.
+\n
+Explore our general web concept docs
+Internet and Web
+Topics related to the high level functioning of the Internet and Web, such as basics and communication protocols.
+\n
+General programming
+Articles covering general programming techniques and fundamental ideas.
+\n
+Information architecture / usability
+Best practices concerned with developing your content and functionality in a logical and intuitive way, so it is easy to find and use.
+\n
+
+
+Mobile and devices
+Techniques and ideas concerning the optimisation of web documents for mobile and other alternative browsing devices.
+\n
+Designing the Web
+Articles related to the planning, prototyping and graphic design of web sites and applications.
+\n
+Cross browser techniques
+Articles covering concepts related to making sites work better across different browsers, modern and old.
+\n
+
+
+Localisation and internationalisation
+Articles covering techniques and technologies used to serve an international audience that speaks multiple languages.
+\n
+Optimizing Performance
+Programming and monitoring techniques that make the most of bandwidth and performance .
+
+  \n
+    </string>
+</resources>

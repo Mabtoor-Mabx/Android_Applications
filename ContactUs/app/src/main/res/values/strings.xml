@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contact Us</string>
+    <string name="for_any_query_contact_us">For Any Query,Contact Us</string>
+    <string name="todo">TODO</string>
+    <string name="submit">Submit</string>
+    <string name="name">
+    </string>
+    <string name="enter_your_name">Enter Your Name</string>
+</resources>
